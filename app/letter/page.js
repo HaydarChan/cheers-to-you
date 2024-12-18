@@ -13,7 +13,7 @@ const LetterPage = () => {
       />
       <p className='font-beanie text-xl md:text-2xl'>  
         Hi, You must be very busy right now, but thank you for taking the time to read this letter. 
-        I just wanted to say that I’m wishing you good luck on your IELTS and exams. Remember this: all your hard work will pay off.
+        I just wanted to say that I’m wishing you good luck on your IELTS and exams, hope you get a perfect score. Remember this: all your hard work will pay off.
         God is good; if you truly want something, He will help you achieve it. 
         Semangat ^_^... -Qy
       </p>
