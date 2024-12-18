@@ -18,7 +18,7 @@ const LetterPage = () => {
         God is good; if you truly want something, He will help you achieve it. <br/>
         And, you are precious. Every person who knows you believes in you—I believe in you, too. <br/>
       </p>
-      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5VBjyOQzqlPNgdRPMM6prF?utm_source=generator&theme=0" width="100%" height="152" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      <iframe className="rounded-[12px]" src="https://open.spotify.com/embed/track/5VBjyOQzqlPNgdRPMM6prF?utm_source=generator&theme=0" width="100%" height="152" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </div>
   )
 }
