@@ -4,14 +4,14 @@ import Image from 'next/image'
 
 const LetterPage = () => {
   return (
-    <div className='mt-12 max-w-3xl px-4 w-full flex flex-col gap-y-4 items-center'>
+    <div className='mt-12 max-w-3xl px-4 w-full flex flex-col gap-y-4 items-center mb-20'>
       <Image 
         src={Cat}
         height={150}
         width={150}
         alt='cat'
       />
-      <p className='font-beanie text-2xl'>  
+      <p className='font-beanie text-xl md:text-2xl'>  
         Hi, <br/>
         You must be very busy right now, but thank you for taking the time to read this letter. <br/>
         I just wanted to say that I’m wishing you good luck on your IELTS and exams. Remember this: all your hard work will pay off. <br/>
