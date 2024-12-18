@@ -35,7 +35,7 @@ export default function Home() {
         <h1 className="text-2xl md:text-4xl text-gray-800 font-beanie">hi grace, <br /> this letter is for you.</h1>
         <Link href={"/letter"} className="w-full flex justify-center">
           <Button className="flex gap-x-4 hover:gap-x-6 transition-all">
-            See The Message <ArrowRight />
+            See The Letter <ArrowRight />
           </Button>
         </Link>
       </div>
