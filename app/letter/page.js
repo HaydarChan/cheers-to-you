@@ -17,7 +17,7 @@ const LetterPage = () => {
         God is good; if you truly want something, He will help you achieve it. 
         Semangat ^_^... -Qy
       </p>
-      <iframe className="rounded-[12px]" src="https://open.spotify.com/embed/track/5VBjyOQzqlPNgdRPMM6prF?utm_source=generator&theme=0" width="100%" height="152" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      <iframe className='rounded-[12px]' src="https://open.spotify.com/embed/track/0KyzXQhY2yzcb1FYCHkZc2?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </div>
   )
 }
